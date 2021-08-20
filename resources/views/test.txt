@@ -1,0 +1,10 @@
+Laravel応用　テスト
+①ORM
+②Eloquent（エロクアント)
+③クラス(モデル)
+④Create（登録）
+⑤Read（参照）
+⑥Update（更新）
+⑦env
+⑧マイグレーション
+⑨シーディング
